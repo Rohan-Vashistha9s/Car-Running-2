@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #back {
   background: url(side.jpg);
   background-repeat: no-repeat;
@@ -27,3 +28,40 @@ img {
   justify-content: center;
   display: flex;
 }
+=======
+#back
+{
+    background: url(side.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    background-attachment: fixed;
+    height: 450px;
+}
+#road
+{
+    background: url(road.jpg);
+    height: 320px;
+}
+img
+{
+    width: 150px;
+}
+.btn
+{
+    background-color: orange;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.btn:hover
+{
+    background-color: lightyellow;
+    cursor: pointer;
+}
+#dbtn
+{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+>>>>>>> 513980929d79d7f818a35740d7ca861f6ca579d2
