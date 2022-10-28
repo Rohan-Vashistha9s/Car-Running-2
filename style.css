@@ -1,35 +1,29 @@
-#back
-{
-    background: url(side.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: auto;
-    background-attachment: fixed;
-    height: 450px;
+#back {
+  background: url(side.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: auto;
+  background-attachment: fixed;
+  height: 450px;
 }
-#road
-{
-    background: url(road.jpg);
-    height: 320px;
+#road {
+  background: url(road.jpg);
+  height: 320px;
 }
-img
-{
-    width: 150px;
+img {
+  width: 150px;
 }
-.btn
-{
-    background-color: orange;
-    font-size: 30px;
-    margin-top: 30px;
+.btn {
+  background-color: orange;
+  font-size: 30px;
+  margin-top: 30px;
 }
-.btn:hover
-{
-    background-color: lightyellow;
-    cursor: pointer;
+.btn:hover {
+  background-color: lightyellow;
+  cursor: pointer;
 }
-#dbtn
-{
-    text-align: center;
-    justify-content: center;
-    display: flex;
+#dbtn {
+  text-align: center;
+  justify-content: center;
+  display: flex;
 }
