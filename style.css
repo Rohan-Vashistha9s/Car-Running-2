@@ -6,7 +6,9 @@
   background-attachment: fixed;
   height: 450px;
 }
-#road {
+#road
+
+{
   background: url(road.jpg);
   height: 320px;
 }
